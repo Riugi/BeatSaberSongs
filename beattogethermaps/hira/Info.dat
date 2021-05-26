@@ -1,0 +1,58 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Boku no yume, mechakuso mugen waki",
+  "_songSubName": "",
+  "_songAuthorName": "t+pazolite & Nanahira",
+  "_levelAuthorName": "Skinnyjeens64",
+  "_beatsPerMinute": 205,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "My first dream3.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.30000001192092896,
+          "_customData": {
+            "_difficultyLabel": "Failed tec ",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.30000001192092896,
+          "_customData": {
+            "_difficultyLabel": "The Infinite Spring",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
