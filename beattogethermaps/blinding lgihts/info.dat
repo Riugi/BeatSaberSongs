@@ -1,0 +1,62 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Blinding Lights",
+  "_songSubName": "",
+  "_songAuthorName": "The Weeknd",
+  "_levelAuthorName": "ExtraCheesy & DGRJ4Life",
+  "_beatsPerMinute": 171,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "lights.egg",
+  "_coverImageFilename": "lights.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Lights",
+        "_name": "DGRJ4Life",
+        "_iconPath": "error.jpg"
+      },
+      {
+        "_role": "Mapper",
+        "_name": "xCheesy",
+        "_iconPath": "cheesesalty.png"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Lightshow",
+            "_editorOffset": -545,
+            "_editorOldOffset": -545
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Blinded",
+            "_editorOffset": -545,
+            "_editorOldOffset": -545
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}
